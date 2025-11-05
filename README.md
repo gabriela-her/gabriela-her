@@ -24,7 +24,7 @@
 
 Me metí en este mundo porque me apasiona **crear soluciones reales** y entender cómo la tecnología transforma la forma en que nos comunicamos y vivimos. 🌍  
 
-Actualmente curso el **Bootcamp de Programación Web Full Stack en F5**, y aunque me siento un poco más en casa en el **backend**, disfruto muchísimo de darle **forma y vida al frontend**.  
+Actualmente curso el **Bootcamp de Programación Web Full Stack en FactoriaF5**, y aunque me siento un poco más en casa en el **backend**, disfruto muchísimo de darle **forma y vida al frontend**.  
 Estamos ya en la **recta final**, y no puedo estar más orgullosa del camino recorrido. 💪  
 
 ### Destaco mi participación en el proyecto **[Celestial Bloom](https://github.com/Sylva-Organization)**,  
@@ -65,7 +65,7 @@ trabajo en equipo donde la colaboración, la comunicación y el código se junta
 
 ```
 
-*“El código también es una forma de contar historias. La mía apenas comienza.”*
+“El código también es una forma de contar historias. La mía apenas comienza.”
 
 ```
 
