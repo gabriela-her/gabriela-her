@@ -27,7 +27,9 @@ Me metí en este mundo porque me apasiona **crear soluciones reales** y entender
 Actualmente curso el **Bootcamp de Programación Web Full Stack en FactoriaF5**, y aunque me siento un poco más en casa en el **backend**, disfruto muchísimo de darle **forma y vida al frontend**.  
 Estamos ya en la **recta final**, y no puedo estar más orgullosa del camino recorrido. 💪  
 
-### Destaco mi participación en el proyecto **[Celestial Bloom](https://github.com/Sylva-Organization)**,  
+### Destaco:
+- Mi proyecto https://github.com/gabriela-her/arcana-stem (100% Front)
+- Mi participación en el proyecto **[Celestial Bloom](https://github.com/Sylva-Organization)** (100% Back) 
 trabajo en equipo donde la colaboración, la comunicación y el código se juntaron.
 
 
