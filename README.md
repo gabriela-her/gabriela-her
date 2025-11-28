@@ -20,7 +20,7 @@
 </p>
 
 
-### 💫 Sobre mí
+## Sobre mí
 
 Me metí en este mundo porque me apasiona **crear soluciones reales** y entender cómo la tecnología transforma la forma en que nos comunicamos y vivimos. 🌍  
 
