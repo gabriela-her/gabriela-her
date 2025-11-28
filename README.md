@@ -1,4 +1,4 @@
-<h1 align="center"> ¡Hola! Soy Arianna Gabriela!  </h1>
+<h1 align="center"> ¡Hola! Soy Arianna Gabriela  </h1>
 
 <p align="center">
   <b>Una venezolana más en España explorando el mundo del desarrollo web </b><br/>
