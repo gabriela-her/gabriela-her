@@ -29,8 +29,8 @@ Estamos ya en la **recta final**, y no puedo estar más orgullosa del camino rec
 
 ### Destaco:
 - Mi proyecto https://github.com/gabriela-her/arcana-stem (100% Front)
-- Mi participación en el proyecto **[Celestial Bloom](https://github.com/Sylva-Organization)** (100% Back) 
-trabajo en equipo donde la colaboración, la comunicación y el código se juntaron.
+- Mi participación en el proyecto **[Vacation_portal para Cohispania](https://github.com/G2-FinalProject/portal-empleado-server)** (100% Back) 
+trabajo en equipo, proyecto final con cliente, para flujo de trabajo mira el proyecto y para aclarar dudas, aqui estoy! 
 
 
 ## Mi stack tecnologico 
