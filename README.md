@@ -59,8 +59,7 @@ He desarrollado proyectos tanto en frontend como en backend, trabajando con Java
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 
-```
 
-Busco oportunidades donde pueda seguir creciendo en tecnología, especialmente en roles relacionados con desarrollo, IA, soporte técnico o producto, aportando una combinación de base técnica, experiencia operativa y capacidad de adaptación.
-```
+### Busco oportunidades donde pueda seguir creciendo en tecnología, especialmente en roles relacionados con desarrollo, IA, soporte técnico o producto, aportando una combinación de base técnica, experiencia operativa y capacidad de adaptación.
+
 
