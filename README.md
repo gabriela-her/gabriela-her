@@ -1,7 +1,7 @@
 <h1 align="center"> ¡Hola! Soy Arianna Gabriela  </h1>
 
 <p align="center">
-  <b>Desarrolladora Full Stack en transición hacia tecnología e *- Inteligencia artificial -*, con formación intensiva en desarrollo web y experiencia previa de más de 10 años en entornos de atención al cliente y operaciones en hostelería.
+  <b>Desarrolladora Full Stack en transición hacia tecnología e *- Inteligencia artificial -*, con formación intensiva en desarrollo web y experiencia previa de más de 10 años en entornos dinamicos de atención al cliente.
 </p>
 
 
