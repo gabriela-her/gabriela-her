@@ -1,8 +1,7 @@
 <h1 align="center"> ¡Hola! Soy Arianna Gabriela  </h1>
 
 <p align="center">
-  <b>Una venezolana más en España explorando el mundo del desarrollo web </b><br/>
-  Curiosa, constante y con muchas ganas de seguir creciendo.
+  <b>Desarrolladora Full Stack en transición hacia tecnología e *- Inteligencia artificial -*, con formación intensiva en desarrollo web y experiencia previa de más de 10 años en entornos de atención al cliente y operaciones en hostelería.
 </p>
 
 <div align="center">
@@ -22,16 +21,9 @@
 
 ## Sobre mí
 
-Me metí en este mundo porque me apasiona **crear soluciones reales** y entender cómo la tecnología transforma la forma en que nos comunicamos y vivimos. 🌍  
+Me metí en este mundo porque me apasiona **crear soluciones** y entender cómo la tecnología transforma la forma en que nos comunicamos y vivimos. 🌍  
 
-Actualmente curso el **Bootcamp de Programación Web Full Stack en FactoriaF5**, y aunque me siento un poco más en casa en el **backend**, disfruto muchísimo de darle **forma y vida al frontend**.  
-Estamos ya en la **recta final**, y no puedo estar más orgullosa del camino recorrido. 💪  
-
-### Destaco:
-- Mi proyecto https://github.com/gabriela-her/arcana-stem (100% Front)
-- Mi participación en el proyecto **[Vacation_portal para Cohispania](https://github.com/G2-FinalProject/portal-empleado-server)** (100% Back) 
-trabajo en equipo, proyecto final con cliente, para flujo de trabajo mira el proyecto y para aclarar dudas, aqui estoy! 
-
+He desarrollado proyectos tanto en frontend como en backend, trabajando con JavaScript, React, Node.js, Express y bases de datos, además de herramientas de testing, control de versiones y despliegue y ahora estoy ampliando mis conocimientos en el ámbito de la inteligencia artificial, análisis de datos, machine learning y mas ..   
 
 ## Mi stack tecnologico 
 
@@ -75,7 +67,6 @@ trabajo en equipo, proyecto final con cliente, para flujo de trabajo mira el pro
 
 ```
 
-“El código también es una forma de contar historias. La mía apenas comienza.”
-
+Busco oportunidades donde pueda seguir creciendo en tecnología, especialmente en roles relacionados con desarrollo, IA, soporte técnico o producto, aportando una combinación de base técnica, experiencia operativa y capacidad de adaptación.
 ```
 
