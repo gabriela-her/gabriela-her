@@ -4,12 +4,6 @@
   <b>Desarrolladora Full Stack en transición hacia tecnología e *- Inteligencia artificial -*, con formación intensiva en desarrollo web y experiencia previa de más de 10 años en entornos de atención al cliente y operaciones en hostelería.
 </p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=B26BFF&center=true&vCenter=true&width=700&lines=Desarrolladora+Web+Full+Stack+💻;Creativa+%7C+Curiosa+%7C+Aprendiendo+cada+d%C3%ADa+🌱;Construyendo+ideas+que+conectan+personas+✨)](https://git.io/typing-svg)
-
-</div>
-
 
  <h2 align="center">Conecta conmigo</h2>
 <p align="center">
